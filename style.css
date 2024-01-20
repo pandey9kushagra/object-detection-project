@@ -1,0 +1,54 @@
+body{
+    background-image: linear-gradient(to bottom right, rgb(127, 177, 192), rgb(116, 200, 161),rgb(42, 162, 231));
+}
+
+button{
+
+    width: 300px;
+    font-size: 20px;
+    background-color: rgb(4, 96, 96);
+    font-family: 'Courier New', Courier, monospace;
+    border-radius: 10px;
+    font-style: oblique;
+    font-weight: 1000;
+    color: azure;
+}
+
+h1{
+    font-family: 'Courier New', Courier, monospace;
+    font-style: oblique;
+    font-weight: 1000;
+    font-size: 45px;
+}
+
+h2{
+    font-family: 'Courier New', Courier, monospace;
+    font-style: oblique;
+    font-weight: 1000;
+    font-size: 28px;
+    background-color: aliceblue;
+    width: 500px;
+    border-radius: 10px;
+    text-align: center;
+    line-height: 1.5;
+}
+
+p{
+    font-family: 'Courier New', Courier, monospace;
+    font-style: oblique;
+    font-weight: 1000;
+    font-size: 25x;
+    background-color: aliceblue;
+    width: 700px;
+    border-radius: 6px;
+    text-align: center;
+    line-height: 1.5;
+}
+
+canvas{
+
+    border-color: black;
+    border-width: 6px;
+    border-style: ridge;
+    border-radius: 10px;
+}
